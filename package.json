@@ -1,8 +1,8 @@
 {
   "name": "wav-audio-length",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "wav audio play duration seconds calculator.",
-  "main": "calculator.js",
+  "main": "duration.js",
   "types": "types.d.ts",
   "scripts": {
     "all": "gulp tsc && gulp test && gulp lint && gulp format",
